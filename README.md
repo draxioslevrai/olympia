@@ -1,1 +1,1 @@
-# mythicmc
+# olympia
